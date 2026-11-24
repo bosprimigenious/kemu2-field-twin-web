@@ -1,6 +1,7 @@
 # 科目二训练场 · 数字孪生演示
 
-浏览器打开 <https://bosprimigenious.github.io/kemu2-field-twin-web/>。
+- 正式页面：<https://bosprimigenious.github.io/kemu2-field-twin-web/>
+- 自动演示（加载后自动把五个项目依次开完）：<https://bosprimigenious.github.io/kemu2-field-twin-web/demo.html>
 
 - 手动驾驶：`W/S` 前进·倒车，`A/D` 转向，`Space` 停车。
 - 自动驾驶：选项目后点「自动驾驶」，车辆用几何纯追踪跟踪参考线，HUD 实时显示横向偏差。
